@@ -21,6 +21,11 @@ section{
     padding-top: 15px;
     padding-left: 10%;
 }
+.half-width-2 img{
+    width: 80%;
+    padding-top: 15px;
+    padding-left: 5%;
+}
 .link-button{
     text-decoration: none;
     color: white;
